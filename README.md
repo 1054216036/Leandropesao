@@ -166,9 +166,9 @@ QQ | 微信:252645816
 
 > 如果您愿意捐赠本项目,推荐直接在右下方通过Gitee直接捐赠.
 
-# 广告商
+# 广告商 | Advertising provider
 ---
-
+> 我们的广告投放商,如果您期望Easy-Es能够走得更远,不妨点击下图,支持一下我们的广告商Thanks♪(･ω･)ﾉ
 <a herf="https://www.mingdao.com?s=utm_70&utm_source=easy-es&utm_medium=banner&utm_campaign=gitee&utm_content=IT%E8%B5%8B%E8%83%BD%E4%B8%9A%E5%8A%A1">
   <img alt="ad" src="https://iknow.hs.net/26a6e238-8b23-463c-8cf9-f62cc3f52e0f.png">
 </a>
