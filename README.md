@@ -63,6 +63,7 @@ Easy-Es是一款简化ElasticSearch搜索引擎操作的开源框架,全自动�
 - **零额外学习成本:** 开发者只要会国内最受欢迎的Mybatis-Plus语法,即可无缝迁移至Easy-Es
 - **降低开发者门槛:** 即便是只了解ES基础的初学者也可以轻松驾驭ES完成绝大多数需求的开发
 - **功能强大:** 支持MySQL的几乎全部功能,且对ES特有的分词,权重,高亮,嵌套,地理位置Geo,Ip地址查询等功能都支持
+- **语法优雅:** 所有条件构造器均支持Lambda风格链式编程，编程体验和代码可读性大幅提升
 - **安全可靠:** 墨菲安全扫描零风险,且代码单元测试综合覆盖率高达95%以上.
 - **完善的中英文文档:** 提供了中英文双语操作文档,文档全面可靠,帮助您节省更多时间
 - **...**
@@ -164,6 +165,16 @@ QQ | 微信:252645816
 > 您的支持是鼓励我们前行的动力，无论金额多少都足够表达您这份心意。
 
 > 如果您愿意捐赠本项目,推荐直接在右下方通过Gitee直接捐赠.
+
+# 广告商 | Advertising provider
+---
+> 我们的广告投放商,如果您期望Easy-Es能够走得更远,不妨点击下图,支持一下我们的广告商Thanks♪(･ω･)ﾉ
+
+<a href="https://www.mingdao.com?s=utm_70&utm_source=easy-es&utm_medium=banner&utm_campaign=gitee&utm_content=IT%E8%B5%8B%E8%83%BD%E4%B8%9A%E5%8A%A1">
+  <img alt="ad" src="https://iknow.hs.net/26a6e238-8b23-463c-8cf9-f62cc3f52e0f.png">
+</a>
+
+
 
 # 赞助商 | Sponsor
 ---
